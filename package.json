@@ -1,7 +1,7 @@
 {
-  "name": "frontend-starter",
+  "name": "near-trees",
   "private": true,
-  "description": "Template for NFT Launches on TenK",
+  "description": "landing page for NEAR Trees NFT project",
   "version": "0.1.0",
   "author": "Chad Ostrowski <chad@ahalabs.dev>",
   "dependencies": {
