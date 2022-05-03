@@ -1,15 +1,16 @@
 {
-  "author": "@TenKBay",
+  "author": "@neartreesnft",
   "siteUrl": "https://tenkbay.com",
   "contractName": "v2.tenk.testnet",
+  "image": "banner.jpg",
   "social": [
     {
-      "href": "https://discord.com/invite/UY9Xf2k",
+      "href": "https://discord.gg/cWYyEpemUF",
       "img":  "discord.svg",
       "alt": "Discord"
     },
     {
-      "href": "https://twitter.com/TenKBay",
+      "href": "https://twitter.com/neartreesnft",
       "img":  "twitter.svg",
       "alt": "Twitter"
     }
