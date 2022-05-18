@@ -14,10 +14,10 @@
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
   "hero": {
-    "image": "banner-sq.png",
+    "image": "seed.jpg",
     "title": "Seeds drop at SALE_START!",
     "body": "Get your free OG pass.",
-    "ps": "Minting a free seed now will let mint a more valuable OG NFT later.",
+    "ps": "Minting a free seed now will let you mint a more valuable OG NFT later.",
     "remaining": "NFTs remaining: REMAINING_COUNT",
     "cta": "Add to Calendar",
     "action": "ADD_TO_CALENDAR(SALE_START)",
@@ -42,7 +42,7 @@
     {
       "className": "about",
       "text": "# Introducing NearTrees\n\nThe elemental trees were born long before any other living creature, and they will likely still be here long after everything else is gone. Their ancient roots are entrenched in the Earth's soil, running all the way down to our planet's very core. Their trunks are among the most indestructible materials known to man. And their leaves are capable of emitting enough oxygen to sustain an entire country for a year.",
-      "image": "seed.jpg"
+      "image": "treewl.png"
     },
     {
       "text": "Our 2,555 hand-drawn NFT portraits will be published on the NEAR blockchain and have been designed with eco-friendly aims in mind. However, in order for these elemental NFTrees to emerge, we must first release our 333 minted 'seeds' which will have many benefits for the early adopters as they harness the powers of the five elements. The decision is yours… earth, wind, fire, water, or lightning. Each piece is a unique non-fungible token (NFT) and contains unique features and characteristics. It was our aim with this project to not only make a positive difference to the environment with the collection, but also provide incredible artwork and worthwhile features. So, what are you waiting for? Come and harness the powers of the elemental trees today!",
